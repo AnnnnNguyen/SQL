@@ -5,4 +5,4 @@ Question: [SQL Exercises using Simple queries, Where, Calculation, Basic joins, 
 
 Question: [SQL with Sub-quesries and CTEs.docx](https://github.com/AnnnnNguyen/SQL/files/10039877/SQL.with.Sub-quesries.and.CTEs.docx)
 
-# 2. Tableau
+
